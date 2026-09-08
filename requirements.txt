@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+shap>=0.44
+lime>=0.2
+matplotlib>=3.8
+kagglehub>=0.2
